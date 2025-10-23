@@ -11,9 +11,9 @@
 ## Screen App
 ---
 ### Список клиентов
-![Список клиентов](screenshot/1.png)
+![Список клиентов](CRM/screenshot/1.png)
 
 ### Окно входа
-![Окно входа](screenshot/2.png)
+![Окно входа](CRM/screenshot/2.png)
 
 ---
