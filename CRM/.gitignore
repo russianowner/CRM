@@ -1,0 +1,17 @@
+﻿[Bb]in/
+[Oo]bj/
+.vs/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.db
+*.sqlite
+crm.db
+*.nupkg
+packages/
+.nuget/
+*.log
+Thumbs.db
+.DS_Store
